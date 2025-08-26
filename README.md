@@ -28,7 +28,7 @@ This project simulates the supplier onboarding and vendor management process in 
 - Added a **Supplier Status** field (Prospective, Onboarded, Active, Inactive).
 - Grouped suppliers into List Views by category and status.
 
-![Supplier Categorization](./images/supplier-categorization.png)
+![Supplier Categorization](https://github.com/Ramhorsecat90/Salesforce-supplier-onboarding-simulation/tree/main/Supplier%20Categorization)
 
 ---
 
@@ -37,7 +37,7 @@ This project simulates the supplier onboarding and vendor management process in 
 - Created sample opportunities such as *2025 DoD Logistics Supply Bid*.
 - Attached compliance documents under Notes & Attachments.
 
-![Supplier Engagement](./images/supplier-engagement.png)
+![Supplier Engagement](https://github.com/Ramhorsecat90/Salesforce-supplier-onboarding-simulation/tree/main/Supplier%20Engagement)
 
 ---
 
@@ -46,7 +46,7 @@ This project simulates the supplier onboarding and vendor management process in 
 - **Report 2:** Supplier Opportunities by Status (funnel view by stage).
 - **Dashboard:** Combined reports to show supplier segmentation, pipeline, and engagement activity.
 
-![Supplier Dashboard](./images/supplier-dashboard.png)
+![Supplier Dashboard](https://github.com/Ramhorsecat90/Salesforce-supplier-onboarding-simulation/tree/main/Supplier%20Dashboard)
 
 ---
 
