@@ -19,7 +19,7 @@ This project simulates the supplier onboarding and vendor management process in 
 - Created 3–5 mock suppliers with fields for Supplier Name, Category, Region, and Point of Contact.
 - Added Contacts for each supplier and uploaded mock compliance documentation (certifications, insurance, audit reports).
 
-![Supplier Record](./images/supplier-record.png)
+![Supplier Record](https://github.com/Ramhorsecat90/Salesforce-supplier-onboarding-simulation/tree/main/Supplier%20Records)
 
 ---
 
